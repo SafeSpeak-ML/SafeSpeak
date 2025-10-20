@@ -1,0 +1,25 @@
+# Core ML and Deep Learning
+torch==2.2.2
+torchtext==0.17.2
+numpy==1.26.4
+
+# Text Processing
+nltk==3.9.1
+
+# Data Handling
+pandas==2.3.1
+
+# Training and Evaluation
+scikit-learn==1.7.1
+
+# Visualization (for training notebook)
+matplotlib==3.10.6
+
+# Jupyter Notebook Support
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+ipykernel==6.30.0
+ipython==9.4.0
+
+# Utilities
+tqdm==4.67.1
